@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "fotos",
     "description": "",
-    "home_page_url": "https://avilaj.github.io",
-    "feed_url": "https://avilaj.github.io/feed.json",
+    "home_page_url": "http://avila.rocks",
+    "feed_url": "http://avila.rocks/feed.json",
     "user_comment": "",
     "author": {
         "name": "jorge avila"
     },
     "items": [
         {
-            "id": "https://avilaj.github.io/my-first-session.html",
-            "url": "https://avilaj.github.io/my-first-session.html",
+            "id": "http://avila.rocks/my-first-session.html",
+            "url": "http://avila.rocks/my-first-session.html",
             "title": "My first session",
-            "content_html": "Welcome all to my session. This is the very first time I'm publishing a blog about photography.\n<div class=\"gallery\" contenteditable=\"false\" data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://avilaj.github.io/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.48.56.png\" data-size=\"548x618\"><img src=\"https://avilaj.github.io/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.48.56-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://avilaj.github.io/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.52.00.png\" data-size=\"684x404\"><img src=\"https://avilaj.github.io/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.52.00-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://avilaj.github.io/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.57.50.png\" data-size=\"1558x722\"><img src=\"https://avilaj.github.io/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.57.50-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
+            "content_html": "Welcome all to my session. This is the very first time I'm publishing a blog about photography.\n<div class=\"gallery\" contenteditable=\"false\" data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"http://avila.rocks/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.48.56.png\" data-size=\"548x618\"><img src=\"http://avila.rocks/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.48.56-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://avila.rocks/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.52.00.png\" data-size=\"684x404\"><img src=\"http://avila.rocks/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.52.00-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"http://avila.rocks/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.57.50.png\" data-size=\"1558x722\"><img src=\"http://avila.rocks/media/posts/1/gallery/Screen-Shot-2018-04-12-at-08.57.50-thumbnail.png\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
             "author": {
                 "name": "jorge avila"
             },
